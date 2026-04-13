@@ -66,3 +66,17 @@ En estadística sí se usa el total (para ver la tendencia global)
 
 En Power BI no se usa (porque no es comparable con las bebidas individuales)
 
+🔄 Flujo de trabajo del proyecto
+Dataset original → niaaa_apparent_per_capita_consumption_1977_2023.csv
+
+Limpieza y validación → main.py
+
+Dataset limpio → clean_data.csv
+
+Análisis estadístico → Analisis.py
+
+Dashboard interactivo → Análisis.pbix
+
+Informe final → Análisis del proyecto.pdf
+
+
